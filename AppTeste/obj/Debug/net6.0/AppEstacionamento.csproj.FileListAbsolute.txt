@@ -1,0 +1,15 @@
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\bin\Debug\net6.0\AppEstacionamento.exe
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\bin\Debug\net6.0\AppEstacionamento.deps.json
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\bin\Debug\net6.0\AppEstacionamento.runtimeconfig.json
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\bin\Debug\net6.0\AppEstacionamento.dll
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\bin\Debug\net6.0\AppEstacionamento.pdb
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppEstacionamento.csproj.AssemblyReference.cache
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppEstacionamento.AssemblyInfoInputs.cache
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppEstacionamento.AssemblyInfo.cs
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppEstacionamento.csproj.CoreCompileInputs.cache
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppEstacionamento.dll
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\refint\AppEstacionamento.dll
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppEstacionamento.pdb
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppEstacionamento.genruntimeconfig.cache
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\ref\AppEstacionamento.dll

@@ -1,0 +1,15 @@
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\bin\Debug\net6.0\AppTeste.exe
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\bin\Debug\net6.0\AppTeste.deps.json
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\bin\Debug\net6.0\AppTeste.runtimeconfig.json
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\bin\Debug\net6.0\AppTeste.dll
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\bin\Debug\net6.0\AppTeste.pdb
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppTeste.csproj.AssemblyReference.cache
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppTeste.AssemblyInfoInputs.cache
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppTeste.AssemblyInfo.cs
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppTeste.csproj.CoreCompileInputs.cache
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppTeste.dll
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\refint\AppTeste.dll
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppTeste.pdb
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\AppTeste.genruntimeconfig.cache
+C:\ProjetosCSharp\helloWorld\AppTeste\AppTeste\obj\Debug\net6.0\ref\AppTeste.dll
